@@ -1,38 +1,29 @@
-# Hi, I'm Mateusz Wiecek 👋
+# Mateusz Wiecek
 
-I'm a postgraduate Artificial Intelligence & Applications student at the University of Strathclyde in Glasgow, building a practical portfolio for entry-level AI, Machine Learning and Data Science roles.
+MSc Artificial Intelligence student at the University of Strathclyde, focusing on Generative AI, RAG systems, and Deep Learning.
 
-I am currently developing applied skills in Python, data analysis, machine learning workflows, model evaluation, deep learning and clear technical communication.
+I am building an applied AI portfolio for internships and entry-level roles, with projects covering retrieval-augmented generation, computer vision, machine learning evaluation, and optimisation methods.
 
-## Focus Areas
+## Current Focus
 
-- Machine Learning
-- Data Science
-- Python
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Applied AI projects
+- Generative AI and retrieval-augmented generation systems
+- Deep learning for computer vision
+- Applied machine learning with reproducible workflows
+- Evolutionary algorithms and optimisation
+- Clear technical communication for real-world AI projects
 
-## Current Goal
+## Featured Projects
 
-I am building a strong AI/ML portfolio through university projects, Kaggle notebooks and independent GitHub repositories.
-
-I am open to AI/ML internships, junior data science roles and collaborative projects.
-
-## Portfolio Projects in Progress
-
-- End-to-End Machine Learning Pipeline
-- Data Analysis and Visualisation Projects
-- Deep Learning with PyTorch
-- Kaggle Competition Notebooks
-- ARC Prize / Abstract Reasoning Experiments
+- [Project RAG for NHS-style clinical knowledge retrieval](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/project-rag-nhs) - architecture and methodology for a privacy-aware RAG system using LLMs and vector search.
+- [Sign Language MNIST Classification](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/sign-language-mnist) - image classification project using deep learning, training curves, and model evaluation.
+- [Genetic Algorithms for Portfolio Optimisation](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/genetic-algorithms-portfolio-optimisation) - optimisation project applying evolutionary search to portfolio allocation.
 
 ## Tech Stack
 
-Python • pandas • NumPy • scikit-learn • PyTorch • matplotlib • Jupyter • Git • SQL
+Python, pandas, NumPy, scikit-learn, PyTorch, Jupyter, matplotlib, SQL, Git, vector search, LLM workflows.
 
 ## Links
 
-- Kaggle: https://www.kaggle.com/mefiu007
 - LinkedIn: https://www.linkedin.com/in/mateusz-wiecek-148504a0/
+- Kaggle: https://www.kaggle.com/mefiu007
+- Email: available on request
