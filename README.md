@@ -15,6 +15,7 @@ I am building an applied AI portfolio for internships and entry-level roles, wit
 ## Featured Projects
 
 - [Clinically Aware RAG for NHS-style EHR](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/project-rag-nhs) - runnable synthetic-data RAG prototype with patient-aware retrieval, safety checks, cited answers, evaluation qrels and governance documentation.
+- [Spotify Popularity and Genre Modelling](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/cs985-spotify-popularity-genre-ml) - CatBoost regression and Linear SVC genre-classification workflow with validation metrics, benchmark results, figures and tests.
 - [Sign Language MNIST Classification](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/sign-language-mnist) - neural-network and perceptron project implemented from scratch with training curves, metrics and label-diagnostic analysis.
 - [Genetic Algorithms for Portfolio Optimisation](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/genetic-algorithms-portfolio-optimisation) - optimisation project applying evolutionary search to portfolio allocation and trading-strategy evaluation.
 
@@ -36,6 +37,7 @@ Technologies demonstrated across my public project portfolio:
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=flat&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![seaborn](https://img.shields.io/badge/-seaborn-4C72B0?style=flat)
 
