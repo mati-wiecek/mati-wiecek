@@ -29,14 +29,9 @@ I am building an applied AI portfolio for internships and entry-level roles, wit
 
 ### Libraries
 
-![PyTorch Badge](https://img.shields.io/badge/-PyTorch-blue?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow Badge](https://img.shields.io/badge/-TensorFlow-blue?style=flat&logo=TensorFlow&logoColor=white)
-![Keras Badge](https://img.shields.io/badge/-Keras-blue?style=flat&logo=Keras&logoColor=white)
-![OpenCV Badge](https://img.shields.io/badge/-OpenCV-blue?style=flat&logo=OpenCV&logoColor=white)
 ![NumPy Badge](https://img.shields.io/badge/-NumPy-blue?style=flat&logo=NumPy&logoColor=white)
 ![sklearn Badge](https://img.shields.io/badge/-sklearn-blue?style=flat&logo=scikitlearn&logoColor=white)
-![Pillow Badge](https://img.shields.io/badge/-Pillow-blue?style=flat&logo=Pillow&logoColor=white)
-![skimage Badge](https://img.shields.io/badge/-skimage-blue?style=flat&logo=skimage&logoColor=white)
+
 
 ### Databases
 
