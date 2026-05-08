@@ -23,13 +23,8 @@ I am building an applied AI portfolio for internships and entry-level roles, wit
 ### Languages
 
 ![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=white)
-![Java Badge](https://img.shields.io/badge/-JAVA-blue?style=flat&logo=Java&logoColor=white)
-![Android Badge](https://img.shields.io/badge/-Android-blue?style=flat&logo=Android&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white)
-![CPP Badge](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/-SQL-blue?style=flat&logo=SQL&logoColor=white)
 ![MATLAB Badge](https://img.shields.io/badge/-MATLAB-blue?style=flat&logo=MATLAB&logoColor=white)
-![Git Badge](https://img.shields.io/badge/-Git-blue?style=flat&logo=Git&logoColor=white)
 ![Latex Badge](https://img.shields.io/badge/-Latex-blue?style=flat&logo=latex&logoColor=white)
 
 ### Libraries
@@ -47,15 +42,12 @@ I am building an applied AI portfolio for internships and entry-level roles, wit
 
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-blue?style=flat&logo=MongoDB&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=MySQL&logoColor=white)
-![SQLite Badge](https://img.shields.io/badge/-SQLite-blue?style=flat&logo=SQLite&logoColor=white)
 
 ### OS/Cloud
 
 ![Linux Badge](https://img.shields.io/badge/-Linux-blue?style=flat&logo=Linux&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-blue?style=flat&logo=Ubuntu&logoColor=white)
-![Debian Badge](https://img.shields.io/badge/-Debian-blue?style=flat&logo=Debian&logoColor=white)
-![GCP Badge](https://img.shields.io/badge/-GCP-blue?style=flat&logo=googlecloud&logoColor=white)
-![AWS Badge](https://img.shields.io/badge/-AWS-blue?style=flat&logo=amazonaws&logoColor=white)
+
 
 ## Links
 
