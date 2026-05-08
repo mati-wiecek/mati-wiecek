@@ -1,27 +1,27 @@
 # Mateusz Wiecek
 
-MSc Artificial Intelligence student at the University of Strathclyde, focusing on Generative AI, RAG systems, and Deep Learning.
+MSc Artificial Intelligence student at the University of Strathclyde, building an applied AI/ML portfolio for internships and entry-level roles.
 
-I am building an applied AI portfolio for internships and entry-level roles, with projects covering retrieval-augmented generation, computer vision, machine learning evaluation, and optimisation methods.
+I focus on retrieval-augmented generation, machine-learning evaluation, computer vision fundamentals and reproducible project workflows.
+
+## Featured Work
+
+| Project | What it shows | Engineering signal |
+| --- | --- | --- |
+| [Clinically Aware RAG for NHS-style EHR](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/project-rag-nhs) | Patient-aware retrieval, grounded answers, safety boundaries and synthetic clinical data. | Python package, CLI, tests, qrels, governance docs. |
+| [Spotify Popularity and Genre Modelling](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/cs985-spotify-popularity-genre-ml) | Regression and classification over tabular music metadata. | `src/` package, pytest tests, validation metrics, reproducible runner. |
+| [Sign Language MNIST from Scratch](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/sign-language-mnist) | Perceptrons and neural networks implemented in NumPy. | Modular training code, executed notebooks, documented diagnostics. |
+
+Full project index: [msc-ai-data-science-projects](https://github.com/mati-wiecek/msc-ai-data-science-projects)
 
 ## Current Focus
 
-- Generative AI and retrieval-augmented generation systems
-- Neural networks and computer vision fundamentals
-- Applied machine learning with reproducible workflows
-- Evolutionary algorithms and optimisation
-- Clear technical communication for real-world AI projects
+- Generative AI and retrieval-augmented generation systems.
+- Applied machine learning with reproducible evaluation.
+- Neural networks and computer vision fundamentals.
+- Clear technical communication for real-world AI projects.
 
-## Featured Projects
-
-- [Clinically Aware RAG for NHS-style EHR](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/project-rag-nhs) - runnable synthetic-data RAG prototype with patient-aware retrieval, safety checks, cited answers, evaluation qrels and governance documentation.
-- [Spotify Popularity and Genre Modelling](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/cs985-spotify-popularity-genre-ml) - CatBoost regression and Linear SVC genre-classification workflow with validation metrics, benchmark results, figures and tests.
-- [Sign Language MNIST Classification](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/sign-language-mnist) - neural-network and perceptron project implemented from scratch with training curves, metrics and label-diagnostic analysis.
-- [Genetic Algorithms for Portfolio Optimisation](https://github.com/mati-wiecek/msc-ai-data-science-projects/tree/main/genetic-algorithms-portfolio-optimisation) - optimisation project applying evolutionary search to portfolio allocation and trading-strategy evaluation.
-
-## Skills
-
-Technologies demonstrated across my public project portfolio:
+## Technical Stack
 
 ### Languages and Notebooks
 
@@ -59,7 +59,7 @@ Technologies demonstrated across my public project portfolio:
 ![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=flat&logo=anaconda&logoColor=white)
 
-## Links
+## Contact
 
 - LinkedIn: https://www.linkedin.com/in/mateusz-wiecek-148504a0/
 - Kaggle: https://www.kaggle.com/mefiu007
