@@ -1,0 +1,47 @@
+name: Daily learning log
+
+on:
+  schedule:
+    - cron: "30 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-log:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Add daily learning checkpoint
+        shell: bash
+        run: |
+          DATE=$(TZ=Europe/London date +"%Y-%m-%d")
+          mkdir -p daily-log
+          FILE="daily-log/$DATE.md"
+
+          if [ ! -f "$FILE" ]; then
+            {
+              echo "# $DATE"
+              echo ""
+              echo "- Daily AI/ML learning checkpoint."
+              echo "- Add a short note here after reviewing a concept, improving a project, or reading technical material."
+            } > "$FILE"
+          fi
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          DATE=$(TZ=Europe/London date +"%Y-%m-%d")
+          git config user.name "mati-wiecek"
+          git config user.email "236686608+mati-wiecek@users.noreply.github.com"
+          git add daily-log
+          git commit -m "Add daily learning log for $DATE"
+          git push
